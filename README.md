@@ -41,7 +41,7 @@ Detection of patterns in delivery performance and quality issues
 
 Recommendations provided for procurement strategy optimization
 
-Authors
+Author
 Dheeraj
 
 
